@@ -7,6 +7,7 @@ Copyright (c) 2026 네오리프웍스(ROVIYUON). All rights reserved.
    - 수정하거나 일부를 떼어 다른 프로그램에 쓰는 것
    - 판매·대여하거나 유료 서비스·상품에 포함하는 것
    - 다른 이름으로 배포하거나 자기가 만든 것처럼 표시하는 것
+   - 무료로 받은 파일이라도 다른 사람에게 공유하거나 다시 배포하는 것(무료 여부와 상관없이 금지)
    - 공식 다운로드 페이지(roviyuon.com) 외의 곳에 올려 배포하는 것
 3. **오픈소스 구성 요소** — 이 프로그램에는 FreeCAD, Qt, OpenCASCADE, FFmpeg 등 오픈소스 구성 요소가 들어 있습니다. 각 구성 요소에는 그 라이선스(LGPL, GPL 등)가 적용되며, 이 이용 조건은 그 라이선스가 주는 권리를 제한하지 않습니다. 라이선스 원문과 고지는 압축 파일 안 `third-party-notices` 폴더와 `THIRD_PARTY_NOTICES.md`에 있습니다.
 4. **대응 소스 제공** — 위 오픈소스 구성 요소의 대응 소스(이 배포본에 들어 있는 버전)가 필요하면 아래 메일로 요청해 주세요. 배포일로부터 최소 3년간 제공합니다. 원본 프로젝트 주소: FreeCAD https://github.com/FreeCAD/FreeCAD · Qt https://download.qt.io/archive/qt/ · OpenCASCADE https://github.com/Open-Cascade-SAS/OCCT · FFmpeg https://ffmpeg.org/download.html · 빌드 레시피 https://github.com/conda-forge
